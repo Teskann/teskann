@@ -2,8 +2,10 @@
 
 ### [Catch2](https://github.com/catchorg/Catch2) ![](https://img.shields.io/github/stars/catchorg/Catch2?style=social)
 
- ![C++](https://img.shields.io/badge/c++-00599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
+ ![C++](https://img.shields.io/badge/c++-00599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 
+- Implemented compile-time testing macros
+  - Proposed PR [#3027](https://github.com/catchorg/Catch2/pull/3027) 🟢 (waiting for review)
 - Reported issue [#2545](https://github.com/catchorg/Catch2/issues/2545) sign-conversion warning in catch_tostring.hpp
     - Proposed PR [#2546](https://github.com/catchorg/Catch2/pull/2546) 🟣 (merged)
 
