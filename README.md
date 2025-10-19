@@ -1,4 +1,4 @@
-## My Peatured Projects
+## My Featured Projects
 
 ### [stronger-cpp](https://github.com/Teskann/stronger-cpp) ![](https://img.shields.io/github/stars/Teskann/stronger-cpp?style=social)
 
