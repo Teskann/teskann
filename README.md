@@ -1,18 +1,26 @@
-## My Featured Projects
+## Some of my projects
 
 ### [stronger-cpp](https://github.com/Teskann/stronger-cpp) ![](https://img.shields.io/github/stars/Teskann/stronger-cpp?style=social)
 
 ![C++](https://img.shields.io/badge/c++-00599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 
-**Single-header C++23 strong typing library.**
-- ✅ Automatic propagation of underlying type operators and other skills
-- ✅ No memory overhead
-- ✅ No visible runtime overhead. [see more]
-- ✅ Tested at compile time (strong guarantee against undefined behaviors)
+- **Single-header C++23 strong typing library.**
+  - ✅ Automatic propagation of underlying type operators and other skills
+  - ✅ No memory overhead
+  - ✅ No visible runtime overhead. [see more]
+  - ✅ Tested at compile time (strong guarantee against undefined behaviors)
+
+### [qui-vote-quoi](https://github.com/Teskann/qui-vote-quoi) *(who votes what)* ![](https://img.shields.io/github/stars/Teskann/qui-vote-quoi?style=social)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+
+- **🇪🇺🇫🇷 Find out how French MEPs vote in the European Parliament.**
+- https://qui-vote-quoi.org
+
+### [➡️ All my repositories](https://github.com/Teskann?tab=repositories)
 
 
-
-## My Featured Contributions
+## Some of my contributions
 
 ### [gcc](https://gcc.gnu.org/)
 
